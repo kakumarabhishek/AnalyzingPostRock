@@ -8,4 +8,4 @@ The code should be self-explanatory and easy to extend to both artist-level visu
 
 ### [[Reddit post]](https://www.reddit.com/r/postrock/comments/kjb8j4/oc_created_an_audio_features_visualization_of/)
 
-![Radar plot visualizations for 16 post-rock albums](FinalResults/SpotiPy_PostRock.png "Radar plot visualizations for 16 post-rock albums")
+![Radar plot visualizations for 16 post-rock albums](FinalResults/SpotiPy_PostRock_cropped.png "Radar plot visualizations for 16 post-rock albums")
